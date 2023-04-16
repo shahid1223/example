@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c450ac1.css",
+    "main.js": "/static/js/main.9d663a04.js",
+    "static/js/921.c2e042fa.chunk.js": "/static/js/921.c2e042fa.chunk.js",
+    "static/js/787.364585f0.chunk.js": "/static/js/787.364585f0.chunk.js",
+    "static/media/primeicons.svg": "/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/vector.png": "/static/media/vector.0c3a4e66b12231a5fa0f.png",
+    "static/media/primeicons.eot": "/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/bgleaderone.png": "/static/media/bgleaderone.70dea0f7cab0662a8717.png",
+    "static/media/primeicons.woff2": "/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/manstudyingfinancialanalytics.png": "/static/media/manstudyingfinancialanalytics.3ea85b2a406c8ff9fd19.png",
+    "static/media/atthescheduleboard.png": "/static/media/atthescheduleboard.dc477067a8f3d14ac970.png",
+    "static/media/studyingatnight.png": "/static/media/studyingatnight.8d3429e49415fef06802.png",
+    "static/media/color.png": "/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/index.html",
+    "main.8c450ac1.css.map": "/static/css/main.8c450ac1.css.map",
+    "main.9d663a04.js.map": "/static/js/main.9d663a04.js.map",
+    "921.c2e042fa.chunk.js.map": "/static/js/921.c2e042fa.chunk.js.map",
+    "787.364585f0.chunk.js.map": "/static/js/787.364585f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c450ac1.css",
+    "static/js/main.9d663a04.js"
+  ]
+}
